@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robodiva
+- 👋 Hi, I’m Kirsten
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently exploring new programming languages!! 
 
